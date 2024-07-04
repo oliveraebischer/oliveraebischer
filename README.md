@@ -4,6 +4,8 @@ My name is Oliver Fahrni and I am A PhD in Economics applicant at the University
 
 I am looking for research collaborators. If you are interested feel free to contact me.
 
+My personal website is: (https://oliverfahrni.github.io)
+
 
 
 <!--
